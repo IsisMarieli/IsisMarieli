@@ -5,7 +5,7 @@
 
 ![Isis GitHub stats](https://github-readme-stats.vercel.app/api?username=IsisMarieli&show_icons=true&theme=dracula)
 
-## Vivência Acadêmicas
+## Vivências Acadêmicas
 
 - Sistema Operacional Linux
 - Zabbix e GLPI
