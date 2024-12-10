@@ -1,8 +1,6 @@
 
 ### Olá, Me chamo Isis Marieli! 👩🏻‍💻
 
-![any alternative text you want ](![image](https://github.com/user-attachments/assets/95c673e2-81b0-4cb6-b10c-a82facc6626b))
-
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isis-marieli-9a350225b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isismarieli1@gmai.com)
 
