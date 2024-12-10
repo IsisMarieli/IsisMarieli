@@ -1,7 +1,7 @@
 
 ### Olá, Me chamo Isis Marieli! 👩🏻‍💻
 
-![](https://i.pinimg.com/originals/04/d3/ec/04d3ec5ae96b09d440ec07e41d480007.gif)
+![](https://3.bp.blogspot.com/-MK6U7pbXsEw/UbJUXWiXhHI/AAAAAAAAlTY/AEgTiPFSGo0/s1600/66_n2.gif)
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isis-marieli-9a350225b/)
