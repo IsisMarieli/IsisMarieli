@@ -1,5 +1,5 @@
 
-### Olá, Me chamo Isis Marieli! 👩🏻‍💻
+### Hello, My name is Isis Marieli! 👩🏻‍💻
 
 ![Favorite Hero](https://www.fightersgeneration.com/characters3/spidey-spideysense.gif)
 
