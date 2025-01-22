@@ -33,5 +33,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-**Meu portfólio:** [](https://my-portfolio-05.vercel.app/#home)
+**Link:** [Meu portfólio](https://my-portfolio-05.vercel.app/#home)
 ###
