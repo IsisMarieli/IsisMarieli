@@ -35,5 +35,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-**Link:** [Meu portfólio](https://portifolio-theta-lovat.vercel.app)
+
 ###
