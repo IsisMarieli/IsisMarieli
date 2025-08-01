@@ -1,7 +1,7 @@
 
 ### Hello, My name is Isis Marieli! 👩🏻‍💻
 
-<div class="gif-container" style="width: 100px;">
+<div class="gif-container" style="width: 80px;">
     <img src="https://i.gifer.com/4OKl.gif" alt="Mew Pokémon" title="Mew Pokémon">
 </div>
 
