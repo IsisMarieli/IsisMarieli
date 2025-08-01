@@ -1,7 +1,7 @@
 
 ### Hello, My name is Isis Marieli! 👩🏻‍💻
 
-![Favorite Hero](https://www.fightersgeneration.com/characters3/spidey-spideysense.gif)
+![Mew](https://media.giphy.com/media/fWgZXc9L8ZuUM/giphy.gif)
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isis-marieli-9a350225b/)
