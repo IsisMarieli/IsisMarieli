@@ -1,7 +1,7 @@
 
 ### Hello, My name is Isis Marieli! 👩🏻‍💻
 
-<div class="tenor-gif-embed" data-postid="17364023430976702759" data-share-method="host" data-aspect-ratio="1.25" data-width="100%"><a href="https://tenor.com/view/mew-pokemon-gif-17364023430976702759">Mew Pokemon Sticker</a>from <a href="https://tenor.com/search/mew-stickers">Mew Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![mew](https://i.gifer.com/4OKl.gif)
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isis-marieli-9a350225b/)
