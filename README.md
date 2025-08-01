@@ -1,14 +1,9 @@
-
 ### Hello, My name is Isis Marieli! 👩🏻‍💻
 
-<div class="gif-container" style="width: 80px;">
-    <img src="https://i.gifer.com/4OKl.gif" alt="Mew Pokémon" title="Mew Pokémon">
-</div>
-
+<img src="https://i.gifer.com/4OKl.gif" width="80" alt="Mew Pokémon">
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isis-marieli-9a350225b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isismarieli1@gmai.com)
-
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=IsisMarieli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -38,4 +33,3 @@
 </div>
 
 🌐 [Meu Portfólio](https://portfolio-isismarieli.vercel.app/)
-###
