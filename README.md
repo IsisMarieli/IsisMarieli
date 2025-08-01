@@ -1,7 +1,9 @@
 
 ### Hello, My name is Isis Marieli! 👩🏻‍💻
 
-![mew](https://i.gifer.com/4OKl.gif)
+<div class="gif-container">
+    <img src="https://i.gifer.com/4OKl.gif" alt="Mew Pokémon" title="Mew Pokémon">
+</div>
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isis-marieli-9a350225b/)
