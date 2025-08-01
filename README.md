@@ -1,7 +1,7 @@
 
 ### Hello, My name is Isis Marieli! 👩🏻‍💻
 
-![Mew](https://tenor.com/uQRzF5XSFSZ.gif)
+<img src="https://media.tenor.com/uQRzF5XSFSZAAAAC/exemplo.gif" width="300" alt="GIF animado" />
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isis-marieli-9a350225b/)
