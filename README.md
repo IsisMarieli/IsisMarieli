@@ -5,7 +5,7 @@
 
 <!-- Pokémon de bienvenida -->
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png" width="120" alt="Mewtwo" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png" width="120" alt="Mew" />
+<img src="https://i.gifer.com/4OKl.gif" width="100" alt="Mew Pokémon">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png" width="120" alt="Gengar" />
 
 ### ¡Hola, soy Isis Marieli! 👩🏻‍💻✨
