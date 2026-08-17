@@ -26,7 +26,7 @@ Sou desenvolvedora **Frontend** apaixonada por criar experiências digitais que 
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack's
 
 ### 🌟 Principal
 <div align="left">
